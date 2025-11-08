@@ -1,5 +1,5 @@
-# Simple-Sticky-Notes
-A simple sticky notes app i made for the web bc why not. (Also use of code is absolutely free, idc what you do with it)
+# Simple-Notes
+A simple notes app i made for the web bc why not. (Also use of code is absolutely free, idc what you do with it)
 
 ## Installing NPM + React version (Assumed npm already installed)
 To install the npm project just download the root folder of ```npm-react``` and cd into it.
