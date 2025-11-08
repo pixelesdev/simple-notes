@@ -38,7 +38,7 @@ export default function App() {
     <div className="app">
       <div className="header">
         <h1 id="main-header">
-          Sticky Notes <img src="/assets/note.png" alt="icon" />
+          Simple Notes <img src="/assets/note.png" alt="icon" />
         </h1>
         <p id="welcome">Welcome! Create and save your notes below.</p>
       </div>
