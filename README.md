@@ -5,7 +5,7 @@ A simple notes app i made for the web bc why not. (Also use of code is absolutel
 To install the npm project just download the root folder of ```npm-react``` and cd into it.
 Then just type ```npm install``` then start it: ```npm run dev```
 
-Try it live at ```notes.pixeles.dev``` (Not working yet btw)
+Try it live at ```notes.pixeles.dev```
 
 <img width="1846" height="957" alt="Screenshot from 2025-08-21 16-36-08" src="https://github.com/user-attachments/assets/8e8fbd51-e64a-4bbe-874a-79e1e5216311" />
 
